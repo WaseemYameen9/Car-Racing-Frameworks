@@ -1,0 +1,6 @@
+E:\Semester 2\OOP\CAR_Framework\FrameWork\bin\Debug\FrameWork.dll
+E:\Semester 2\OOP\CAR_Framework\FrameWork\bin\Debug\FrameWork.pdb
+E:\Semester 2\OOP\CAR_Framework\FrameWork\obj\Debug\FrameWork.csproj.AssemblyReference.cache
+E:\Semester 2\OOP\CAR_Framework\FrameWork\obj\Debug\FrameWork.csproj.CoreCompileInputs.cache
+E:\Semester 2\OOP\CAR_Framework\FrameWork\obj\Debug\FrameWork.dll
+E:\Semester 2\OOP\CAR_Framework\FrameWork\obj\Debug\FrameWork.pdb
